@@ -17,10 +17,10 @@ Instruções para preparares o teu computador e o teu repositório da **UFCD 107
 lp-10793/
   README.md
   aulas/
+    aula-05.ipynb
     aula-06.ipynb
-    aula-07.ipynb
   fichas/
-    ficha-05.ipynb
+    ficha-04.ipynb
 ```
 
 Nomes sempre sem espaços, sem acentos, em minúsculas, e com o número da aula com dois algarismos (`aula-03`, não `aula3` nem `Aula 3`).
@@ -83,7 +83,7 @@ Confirma com `git config --global --list`. **Num computador partilhado da escola
 
 1. **Pull antes de começar:** painel **Controlo de código-fonte** (**Ctrl+Shift+G**) → **…** → **Pull** (ou **Sync Changes**).
 2. **Trabalha** e guarda com **Ctrl+S**. Os ficheiros alterados aparecem no painel com **M** (modificado) ou **U** (novo).
-3. **Commit:** escreve na caixa **Message** o que fizeste (por exemplo `Aula 7: ciclos while e for`) e carrega em **Commit** (✓); se perguntar pelo *stage*, responde **Yes**.
+3. **Commit:** escreve na caixa **Message** o que fizeste (por exemplo `Aula 6: ciclos while e for`) e carrega em **Commit** (✓); se perguntar pelo *stage*, responde **Yes**.
 4. **Push:** carrega em **Sync Changes**.
 5. **Confirma no GitHub** que os ficheiros e a tua mensagem lá estão.
 
