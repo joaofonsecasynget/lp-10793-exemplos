@@ -2,7 +2,7 @@
 
 Exemplos do professor da UFCD 10793 Fundamentos de Python, mostrados nas aulas. É público: qualquer aluno pode consultar e clonar.
 
-**Começa pelo [GUIA.md](GUIA.md)**: tem os passos para criares a conta no GitHub e o teu repositório `lp-10793`, instalares e configurares o Git e o VS Code, e trabalhares com commit, push e pull no VS Code.
+**Começa pelo [GUIA.md](GUIA.md)** (também em [PDF](GUIA.pdf)): tem os passos para criares a conta no GitHub e o teu repositório `lp-10793`, instalares e configurares o Git e o VS Code, e trabalhares com commit, push e pull no VS Code.
 
 ## Como está organizado
 
